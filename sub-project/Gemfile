@@ -30,7 +30,7 @@ group :test do
   gem 'git'
   gem 'octokit'
   gem 'pry'
-  gem 'rubocop'
+  gem 'rubocop', '>= 1.66.0'
   gem 'rubocop-performance'
   gem 'test-unit'
 end
